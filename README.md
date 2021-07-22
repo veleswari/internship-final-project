@@ -29,6 +29,9 @@
 /home/student/Pictures/up ap.png![up ap](https://user-images.githubusercontent.com/84972427/126639364-b39e6bdc-6704-4889-bc3e-656e107c8fc3.png)
 #deleting appointment
 /home/student/Pictures/del ap.png![del ap](https://user-images.githubusercontent.com/84972427/126639467-4656d473-bdd2-4e16-84d5-023469334397.png)
+#log out
+/home/student/Pictures/log out.png![log out](https://user-images.githubusercontent.com/84972427/126639773-6398027a-4383-44a3-aecd-51b446334728.png)
+
 
 
 
