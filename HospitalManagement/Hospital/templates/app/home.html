@@ -1,0 +1,19 @@
+{% extends 'app/base.html' %}
+{% load static %}
+{% block title %}Home{% endblock %}
+{% block content %}
+<head>
+  <style>
+    #bg{
+      background-size: 100%;
+      background-repeat: no-repeat;
+      background-position: top;
+      background-attachment: fixed;
+    }
+    
+  </style>
+</head>
+<body id="bg" style="background-image: url('{% static "images/back.jpg" %}')";>
+  <h3 class="mx-4 my-4">Welcome to the <span class="text-info display-4">Care</span> hospital management system</h3>
+</body>
+{% endblock %}
